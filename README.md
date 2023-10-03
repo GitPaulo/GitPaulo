@@ -1,4 +1,4 @@
-<h3 style="margin-bottom: 0px;"> 👋 Hi, name's Paulo :3</h3>
+<h3 style="margin-bottom: 0px;"><a href="https://gitpaulo.github.io"> 👋 Hi, name's Paulo :3</a></h3>
 <details>
   <summary><h4><a href="https://gitpaulo.github.io/">My resume.</a></h4></summary>
   
