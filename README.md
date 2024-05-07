@@ -1,5 +1,5 @@
 <h2>Heavy rolling, always wins deaths. (5, 1, 5)</h2>
-<details open>
+<details>
   <summary>
     <h4><i>Badges & Links</i></h4>
   </summary>
