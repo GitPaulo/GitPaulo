@@ -1,5 +1,5 @@
 <h2>🐧</h2>
-I currently work on the <a href="https://github.com/github">Github Actions</a> team, and sometimes on various silly side projects.
+Perparing to work on the <a href="https://github.com/github">Github Actions</a> team, and sometimes on various silly side projects.
 
 <details>
   <summary>
