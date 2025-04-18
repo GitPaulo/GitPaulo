@@ -1,7 +1,5 @@
 <h2>🐧</h2>
-Hi o/
-
-I work on the <a href="https://github.com/actions/runner-images">Github Actions</a> team, and sometimes on various silly little side projects.
+I work on the <a href="https://github.com/actions">Github Actions</a> team, and sometimes on various silly little side projects.
 
 <details>
   <summary>
