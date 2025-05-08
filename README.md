@@ -1,9 +1,9 @@
-<h2>🐧</h2>
+<h2> Hi 🐧</h2>
 I work on the <a href="https://github.com/actions">Github Actions</a> team, and sometimes on various silly little side projects.
 
 <details>
   <summary>
-    <h4><i>Badges, Links and Information</i></h4>
+    <h4><i>More information...</i></h4>
   </summary>
 
   <p align="center">
@@ -12,9 +12,6 @@ I work on the <a href="https://github.com/actions">Github Actions</a> team, and 
     </a>
     <a href="https://dev.to/gitpaulo" target="_blank" style="display:inline-block; text-decoration:none;">
       <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to"/>
-    </a>
-    <a href="https://www.codegrepper.com/profile/paulo-yjl1tqmpvrf6" target="_blank" style="display:inline-block; text-decoration:none;">
-      <img src="https://img.shields.io/badge/Grepper-8F1BB5?style=for-the-badge&logo=grepper" alt="Grepper"/>
     </a>
   </p>
 
