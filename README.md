@@ -1,9 +1,9 @@
-<h2> Hi 🐧</h2>
-I work on the <a href="https://github.com/actions">Github Actions</a> team, and sometimes on various silly little side projects.
+<h2>🐈</h2>
+I work on the <a href="https://github.com/actions">Github Actions</a> team, and sometimes on <a href="https://github.com/GitPaulo?tab=repositories&q=&type=public&language=&sort=name">various silly little side projects.
 
 <details>
   <summary>
-    <h4><i>More information...</i></h4>
+    <h4><i>...</i></h4>
   </summary>
 
   <p align="center">
