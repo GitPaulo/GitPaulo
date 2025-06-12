@@ -28,7 +28,7 @@ I work on the <a href="https://github.com/actions">Github Actions</a> team, and 
   </div>
 
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=GitPaulo&show_icons=true&count_private=true&theme=dark&bg_color=0d1117&icon_color=ffffff&title_color=ffffff&text_color=8b949e&hide_border=true&rank_icon=github&hide=prs,contribs&show=discussions_started,discussions_answered" alt="GitHub stats for GitPaulo" />
+    <img src="https://github-readme-stats.vercel.app/api?username=GitPaulo&show_icons=true&count_private=true&theme=dark&bg_color=0d1117&icon_color=ffffff&title_color=ffffff&text_color=8b949e&hide_border=true&rank_icon=github&hide=prs,contribs&show=discussions_started" alt="GitHub stats for GitPaulo" />
   </div>
   
   <p>📫 Reach me at:</p>
