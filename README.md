@@ -6,7 +6,7 @@ I work on the <a href="https://github.com/actions">Github Actions</a> team, and 
       \    /\
        )  ( ')
       (  /  )
-       \(__)|
+       \(__)|                                                                                                 o
 ```
 
 <details>
