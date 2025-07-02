@@ -2,12 +2,7 @@
 
 I work on the <a href="https://github.com/actions">Github Actions</a> team, and sometimes on <a href="https://github.com/GitPaulo?tab=repositories&q=&type=public&language=&sort=name">various silly little side projects.
 
-```
-      \    /\
-       )  ( ')
-      (  /  )
-       \(__)|                                                                                         o
-```
+![](https://cat-and-ball.fly.dev/)
 
 <details>
   <summary>
