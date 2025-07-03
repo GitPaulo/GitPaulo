@@ -16,6 +16,9 @@ I work on the <a href="https://github.com/actions">Github Actions</a> team, and 
         border="0"
       />
     </a>
+    <a href="https://github.com/orgs/actions/people?query=gitpaulo" target="_blank" style="display:inline-block;">
+      <img src="https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white">
+    </a>
     <a href="https://dev.to/gitpaulo" target="_blank" style="display:inline-block;">
       <img
         src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"
@@ -24,10 +27,6 @@ I work on the <a href="https://github.com/actions">Github Actions</a> team, and 
       />
     </a>
   </p>
-  
-  <div align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GitPaulo&layout=compact&langs_count=8&hide_progress=true&theme=dark&bg_color=0d1117&hide_border=true" alt="Top 3 languages for GitPaulo" />
-  </div>
 
   <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=GitPaulo&show_icons=true&count_private=true&theme=dark&bg_color=0d1117&icon_color=ffffff&title_color=ffffff&text_color=8b949e&hide_border=true&rank_icon=github&hide=prs,contribs&show=discussions_started" alt="GitHub stats for GitPaulo" />
