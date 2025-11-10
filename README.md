@@ -8,9 +8,6 @@ I work in the <a href="https://github.com/actions">Github Actions</a> team, and 
     <h4><i>...</i></h4>
   </summary>
 
-  <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=GitPaulo&show_icons=true&count_private=true&theme=dark&bg_color=0d1117&icon_color=ffffff&title_color=ffffff&text_color=8b949e&hide_border=true&rank_icon=github&hide=prs,contribs&show=discussions_started" alt="GitHub stats for GitPaulo" />
-  </div>
   <br/>
   <div align="center">
     <img src="https://count.getloli.com/@:gitpaulo?theme=rule34" />
