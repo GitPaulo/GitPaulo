@@ -21,5 +21,5 @@ I work in the <a href="https://github.com/actions">Github Actions</a> team and s
     <li><a href="https://dev.to/gitpaulo">Dev.to</a></li>
   </ul>
   
-  [**Resume.**](resume.gitpaulo.moe)
+  [**Resume.**](https://resume.gitpaulo.moe)
 </details>
