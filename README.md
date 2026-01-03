@@ -2,9 +2,8 @@ Currently working on <a href="https://github.com/features/actions">Github Action
 
 <details>
   <summary>
-    <h4><i>...</i></h4>
+    <b><i>...</i></b>
   </summary>
-
   <br/>
   <div align="center">
     <img src="https://count.getloli.com/@:gitpaulo?theme=rule34" />
