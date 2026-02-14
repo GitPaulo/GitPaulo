@@ -2,12 +2,12 @@ Currently working on <a href="https://github.com/features/actions">Github Action
 
 <details>
   <summary>
-    <b><i>...</i></b>
+    <b>…</b>
   </summary>
   <br/>
   <div align="center">
     <img src="https://count.getloli.com/@:gitpaulo?theme=rule34" />
     <br>
-    <a href="https://gitpaulo.moe"><b>Reach me</b></a>
+    👋<a href="https://gitpaulo.moe"><i>Reach me</i></a>
   </div>
 </details>
